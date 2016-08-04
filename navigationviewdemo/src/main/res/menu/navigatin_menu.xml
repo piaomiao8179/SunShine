@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:title="今日详细天气"
+              android:id="@+id/today"
+            android:icon="@drawable/ic_navigation"/>
+        <item android:title="明日天气"
+              android:id="@+id/tomorrow"
+              android:icon="@drawable/ic_navigation"/>
+
+        <item android:title="后天天气"
+              android:id="@+id/aftertomorrow"
+              android:icon="@drawable/ic_navigation"/>
+    </group>
+</menu>

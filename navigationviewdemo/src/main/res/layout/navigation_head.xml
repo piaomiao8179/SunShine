@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="370dp"
+    android:background="@mipmap/timg">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="你懂的~~"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="280dp"
+        android:textSize="25sp"
+        android:textColor="@color/colorPrimaryDark"/>
+
+</LinearLayout>
