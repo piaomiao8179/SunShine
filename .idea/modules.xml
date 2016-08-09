@@ -4,9 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SunShine.iml" filepath="$PROJECT_DIR$/SunShine.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/navigationviewdemo/navigationviewdemo.iml" filepath="$PROJECT_DIR$/navigationviewdemo/navigationviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" filepath="$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewdemo/recyclerviewdemo.iml" filepath="$PROJECT_DIR$/recyclerviewdemo/recyclerviewdemo.iml" />
     </modules>
   </component>
 </project>

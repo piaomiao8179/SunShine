@@ -1,1 +1,1 @@
-include ':app', ':okhttpdemo', ':navigationviewdemo', ':myapplication'
+include ':app', ':okhttpdemo', ':navigationviewdemo', ':myapplication', ':demo', ':recyclerviewdemo'

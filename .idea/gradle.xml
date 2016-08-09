@@ -10,18 +10,22 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/demo" />
             <option value="$PROJECT_DIR$/myapplication" />
             <option value="$PROJECT_DIR$/navigationviewdemo" />
             <option value="$PROJECT_DIR$/okhttpdemo" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/demo" />
             <option value="$PROJECT_DIR$/myapplication" />
             <option value="$PROJECT_DIR$/navigationviewdemo" />
             <option value="$PROJECT_DIR$/okhttpdemo" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo" />
           </set>
         </option>
       </GradleProjectSettings>
